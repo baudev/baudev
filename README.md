@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Baudev.</h2>
 
-- <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Young  french engineer living in **Paris**
+- <img src="https://raw.githubusercontent.com/baudev/baudev/main/french_icon.svg" width="18"/> Young  french engineer living in **Paris**
 - 🚀 **Passionate** about technology
 
 
@@ -9,8 +9,7 @@
 
 #### GDPR Compliance Analyzer
 
-Tool to check the compliance of a website with the GDPR (General Data Protection Regulation) regarding its use of cookies.  
-[**Frontend demo**](https://baudev.github.io/gdpr-checker-frontend/). [**Backend demo**](https://gdpr-checker.herokuapp.com/). *It takes more than 30 seconds to load since it is hosted on a free version of Heroku*.
+Tool to check the compliance of a website with the GDPR (General Data Protection Regulation) regarding its use of cookies. 
 
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 
